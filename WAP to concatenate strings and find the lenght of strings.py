@@ -1,0 +1,5 @@
+sen1= input("Enter the first sentence: ")
+sen2= input("Enter the second sentence: ")
+a=(sen1 + " " + sen2)
+print(a)
+print(len(a))
